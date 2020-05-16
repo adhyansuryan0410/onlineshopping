@@ -1,0 +1,11 @@
+.item {
+  color: black
+}
+
+.col-sm-2 {
+  margin-left: -20px;
+}
+
+.navbar {
+  background-color: rgba(33, 236, 67, 0.2);
+}
